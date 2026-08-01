@@ -1,6 +1,6 @@
 # Subflame
 
-Subfinder tabanlı, Türkçe arayüzlü alt alan adı keşif ve canlılık kontrolü aracı.
+Subfinder tabanlı, Türkçe arayüzlü gelişmiş alt alan adı keşif ve canlılık kontrolü aracı.
 
 [![Subflame ana arayüz](https://github.com/CyberAnka-Projects/Subflame-/raw/main/docs/arayuz.png)](https://github.com/CyberAnka-Projects/Subflame-/blob/main/docs/arayuz.png)
 
