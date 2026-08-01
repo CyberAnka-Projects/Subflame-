@@ -2,7 +2,7 @@
 
 Subfinder tabanlı, Türkçe arayüzlü alt alan adı keşif ve canlılık kontrolü aracı.
 
-[![Subflame ana arayüz](https://github.com/CyberAnka-Projects/Subflame-/blob/main/docs/arayuz.png)
+[![Subflame ana arayüz](https://github.com/CyberAnka-Projects/Subflame-/raw/main/docs/arayuz.png)](https://github.com/CyberAnka-Projects/Subflame-/blob/main/docs/arayuz.png)
 
 Subflame; hedef alan adlarının alt alan adlarını toplar, HTTP/HTTPS canlılık kontrolünden geçirir, kategori bazında sınıflandırır ve sonuçları Excel veya metin dosyası olarak dışa aktarır.
 
@@ -53,10 +53,9 @@ python3 subflame.py
 
 ## Ekran Görüntüleri
 
-[![Karşılama Ekranı](https://github.com/CyberAnka-Projects/Subflame-/blob/main/docs/karsilama.png)
+[![Karşılama Ekranı](https://github.com/CyberAnka-Projects/Subflame-/raw/main/docs/karsilama.png)](https://github.com/CyberAnka-Projects/Subflame-/blob/main/docs/karsilama.png)
 
-[![Tarama sonucu](https://github.com/CyberAnka-Projects/Subflame-/blob/main/docs/tarama.png)
-
+[![Tarama sonucu](https://github.com/CyberAnka-Projects/Subflame-/raw/main/docs/tarama.png)](https://github.com/CyberAnka-Projects/Subflame-/blob/main/docs/tarama.png)
 
 ## Teknik Detaylar
 
@@ -73,7 +72,7 @@ python3 subflame.py
 ├── docs/                # Ekran görüntüleri
 │   ├── karsilama.png
 │   ├── arayuz.png
-│   ├── tarama.png
+│   └── tarama.png
 ├── LICENSE              # MIT Lisansı
 └── README.md
 ```
