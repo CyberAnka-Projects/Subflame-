@@ -71,10 +71,9 @@ python3 subflame.py
 ├── subflame.py          # Ana uygulama
 ├── requirements.txt     # Bağımlılık listesi (opsiyonel, elle kurulum için)
 ├── docs/                # Ekran görüntüleri
+│   ├── karsilama.png
 │   ├── arayuz.png
 │   ├── tarama.png
-│   ├── canli-tarama.png
-│   └── excel.png
 ├── LICENSE              # MIT Lisansı
 └── README.md
 ```
